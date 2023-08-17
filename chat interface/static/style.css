@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent scrolling */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Make sure the body covers the whole viewport height */
+}
+
+.tesla-logo {
+    max-width: 200px; /* Adjust the size as needed */
+    width: auto;
+    display: block;
+    margin: 20px auto 0; /* Centered and spaced from the top */
+}
+
+.chat-container {
+    flex: 1; /* Allow the chat container to take remaining vertical space */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    overflow-y: auto; /* Enable scrolling within chat */
+    overflow-x: hidden; /* Hide horizontal overflow */
+}
+
+.chat-box {
+    width: 100%;
+    padding: 10px;
+}
+
+.user-bubble {
+    background-color: #4caf50;
+    color: white;
+    border-radius: 15px;
+    padding: 8px 15px;
+    margin: 5px 0;
+    align-self: flex-end;
+    margin-left: auto;
+    max-width: 70%;
+}
+
+.bot-bubble {
+    background-color: #2196f3;
+    color: white;
+    border-radius: 15px;
+    padding: 8px 15px;
+    margin: 5px 0;
+    align-self: flex-start;
+    margin-right: auto;
+    max-width: 70%;
+}
+
+.input-container {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    justify-content: space-between; /* Align items horizontally */
+    align-items: center; /* Center items vertically */
+    background-color: #f5f5f5; /* Add a background color to the input container */
+}
+
+.user-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.send-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
