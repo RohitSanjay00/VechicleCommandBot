@@ -1,0 +1,891 @@
+[
+  {
+    "Question": "Can you check if my car is locked or unlocked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Is my car locked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Are my car doors locked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you check the status of my car doors?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "What is the status of my car doors?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Are my car doors open or closed?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Is my car unlocked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you tell me if my car is locked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you tell me if my car doors are locked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you check the lock status of my car?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you check the door status of my car?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you check if my car is open or closed?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you tell me if my car is unlocked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you check the doors of my car?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you check the status of my car's doors?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you tell me the status of my car's doors?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you check if my car's doors are locked?",
+    "Trigger": "Check_Doors()"
+  },
+  {
+    "Question": "Can you lock my car?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you check my car doors?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Are my car doors locked?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you lock the car doors?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you make sure my car doors are locked?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you check if my car doors are locked?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please lock my car doors",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please check my car doors and make sure they are locked",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please lock the car doors for me",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please make sure the car doors are locked",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you lock my car doors please?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please check the car doors and lock them if they are not",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you check the car doors and make sure they are all locked?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please lock the car doors, I am leaving",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you lock the car doors before I leave?",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please lock the car doors before I get out",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Please lock the car doors when I am not around",
+    "Trigger": "Lock_Doors()"
+  },
+  {
+    "Question": "Can you unlock my car?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please unlock my car",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you open my car doors?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please open my car doors",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you let me in my car?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please let me in my car",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you unlock the car?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please unlock the car",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you open the car doors?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please open the car doors",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you let me in?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please let me in",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you unlock my car please?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please unlock my car please",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you open my car doors please?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please open my car doors please",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Can you let me in my car please?",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Please let me in my car please",
+    "Trigger": "Unlock_Doors()"
+  },
+  {
+    "Question": "Are my windows rolled up?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Are my windows closed?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Are the windows rolled up?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Are the windows closed?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you check if the windows are rolled up?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you check if the windows are closed?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you tell me if the windows are rolled up?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you tell me if the windows are closed?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Did you roll up the windows?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Did you close the windows?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Did you roll up all the windows?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Did you close all the windows?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you make sure the windows are rolled up?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you make sure the windows are closed?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you check if all the windows are rolled up?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you check if all the windows are closed?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Are the windows all rolled up?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Are the windows all closed?",
+    "Trigger": "Check_Windows()"
+  },
+  {
+    "Question": "Can you put the windows down?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you roll down the windows?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you open the windows?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you lower the windows?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you let some air in?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you make it a little cooler in here?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you open the car windows?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you roll down the car windows?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you lower the car windows?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you let some fresh air in?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you make it a little less stuffy in here?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you roll down the windows please?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you open the windows please?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you lower the windows please?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you let some air in please?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you make it a little cooler in here please?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you open the car windows please?",
+    "Trigger": "Rolldown_Windows()"
+  },
+  {
+    "Question": "Can you roll up the windows?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you close the windows?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you put the windows up?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you make sure the windows are closed?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you close all the windows?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you roll up all the windows?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you make sure the windows are all closed?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you close the windows please?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you roll up the windows please?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you make sure all the windows are closed please?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you close all the windows please?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you roll up all the windows please?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you close the windows up?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you roll up the windows up?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you make sure the windows are up?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you close the windows shut?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you roll up the windows shut?",
+    "Trigger": "Rollup_Windows()"
+  },
+  {
+    "Question": "Can you turn on the engine?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you start the engine?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you get the engine started?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you turn the key?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you put the key in the ignition?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you turn the ignition?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you start the car?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you get the car started?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you turn the car on?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you start the engine please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you get the engine started please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you turn the key please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you put the key in the ignition please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you turn the ignition please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you start the car please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you get the car started please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Can you turn the car on please?",
+    "Trigger": "Engine_On()"
+  },
+  {
+    "Question": "Turn off the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Can you turn off the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Can you please turn off the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Would you mind turning off the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Can you switch off the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Can you turn the engine off please?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Please turn off the engine",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Switch off the engine",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Turn the engine off",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Can you kill the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Can you kill the motor?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Turn the motor off",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Kill the motor",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Shut down the engine",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Shut the engine down",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Do you mind turning off the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Would you like me to turn off the engine?",
+    "Trigger": "Engine_Off()"
+  },
+  {
+    "Question": "Is my engine running?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the engine on?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the car running?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the car on?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Can you tell me if my engine is running?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Can you tell me if the car is running?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Can you check if the engine is running?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Can you check if the car is running?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the engine running right now?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the car running right now?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the engine turned on?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the car turned on?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the car started?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Is the engine started?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Can you tell me if the car is started?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Can you tell me if the engine is started?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "Can you check if the car is started?",
+    "Trigger": "Check_Engine()"
+  },
+  {
+    "Question": "What is the range I have left today?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "How far can I go today?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "How much range do I have left?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "What is my current range?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "How many miles can I drive today?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "What is my EV range?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "How far can I go on my EV?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "Can you tell me how far I can go today?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "Can you tell me how much range I have left?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "Can you tell me how many miles I can drive today?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "Can you tell me my current range?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "Can you tell me what my EV range is?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "Can you tell me how far I can go on my EV?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "What is the estimated range for today?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "What is the estimated range for my EV?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "What is the estimated range for my car?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "What is the estimated range for my electric car?",
+    "Trigger": "Get_Range()"
+  },
+  {
+    "Question": "How much battery do I have left?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "What is my battery level?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "How much charge do I have?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "What is my battery charge level?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you tell me how much battery I have left?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you tell me my battery level?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you tell me how much charge I have?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you tell me my battery charge level?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "How much charge is left in my car?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "What is the battery level of my car?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "How much charge does my car have?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "What is the battery charge level of my car?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you check my battery level?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you check my battery charge level?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you tell me the battery level of my car?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you tell me the battery charge level of my car?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you check the battery level of my car?",
+    "Trigger": "Get_Charge()"
+  },
+  {
+    "Question": "Can you do a system check?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you run a system check?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you check the system status?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you tell me the system status?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "How is the system doing?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Is the system working properly?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Are there any problems with the system?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you run a diagnostic?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you run a health check?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you check the health of the system?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you tell me the health of the system?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "How is the health of the system?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Is the system healthy?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Are there any problems with the system's health?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you check the system's diagnostics?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you run a system diagnostic?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "Can you tell me the results of the system diagnostic?",
+    "Trigger": "Get_System_Status()"
+  },
+  {
+    "Question": "What is the capital of France?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "Who is the current president of the United States?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the meaning of life?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the airspeed velocity of an unladen swallow?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the square root of 100?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the chemical formula for water?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the tallest mountain in the world?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the largest ocean in the world?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the planet closest to the sun?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the planet farthest from the sun?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the largest country in the world?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the smallest country in the world?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the currency of the United States?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the currency of China?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the currency of Japan?",
+    "Trigger": "Unknown()"
+  },
+  {
+    "Question": "What is the name of the currency of India?",
+    "Trigger": "Unknown()"
+  }
+
+]
