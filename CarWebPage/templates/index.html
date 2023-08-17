@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tesla Status</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <meta http-equiv="refresh" content="1"> 
+</head>
+<body>
+    <div class="container">
+        <div class="car-image">
+            <img src="{{ url_for('static', filename='tesla.png') }}" alt="Tesla Car">
+        </div>
+        <div class="status-table">
+            <div class="logo-image">
+                <img src="{{ url_for('static', filename='tesla_logo.png') }}" alt="Tesla Logo">
+            </div>
+            
+            <table>
+                <tr>
+                    <td>Doors Locked Status:</td>
+                    <td>{{ doors_locked }}</td>
+                </tr>
+                <tr>
+                    <td>Windows Status:</td>
+                    <td>{{ windows_status }}</td>
+                </tr>
+                <tr>
+                    <td>Engine Status:</td>
+                    <td>{{ engine_status }}</td>
+                </tr>
+                <tr>
+                    <td>Range:</td>
+                    <td>{{ range_value }}</td>
+                </tr>
+                <tr>
+                    <td>Charge:</td>
+                    <td>{{ gas }}</td>
+                </tr>
+                <tr>
+                    <td>System Status:</td>
+                    <td>{{ system_status }}</td>
+                </tr>
+                
+            </table>
+            
+        </div>
+        
+    </div>
+    <h5>Made by Rohit Sanjay</h5>
+    
+</body>
+</html>
